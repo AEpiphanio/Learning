@@ -6,3 +6,5 @@
 Adicionei essa linha direto do site!
 
 Este é meu repositório GitHub, alterado localmente.
+
+Esta é uma alteração feita na branch nova-feature.
